@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
+### Day 1: January 11, 2019
 
+**Today's Task**: Spent time on CSS via #DailyCSSImages. First exposure so scss and using variable names in preprocessor. 
+
+**Thoughts:**: Learned about various masking techniques and, importantly, creative thinking to accommodate limitations of the language. For example, masking out the brain: initially tried to mask out the head and then adding the brain. Better approach was to apply mask border to brain.
+
+**Link to work:** [#dailycssimages Challene Day 1 (Zombie)](https://codepen.io/drewwiltjer/full/wRQoyY)
+
+
+
+
+
+
+
+
+
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +44,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
